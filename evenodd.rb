@@ -1,3 +1,4 @@
+#comment
 puts "enter a number:"
 number = gets.chomp.to_i
 if number % 2 == 0
