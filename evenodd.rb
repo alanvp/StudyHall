@@ -1,4 +1,3 @@
-#comment
 puts "enter a number:"
 number = gets.chomp.to_i
 if number % 2 == 0
@@ -6,5 +5,4 @@ if number % 2 == 0
 else puts "odd"
 end
 
-
-#Ryan was here
+# Noah was here
